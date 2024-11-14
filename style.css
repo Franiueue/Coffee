@@ -92,7 +92,6 @@ li a:hover{
 }
 
 #our-story{
-    height: 100vh;
     margin-top:15%;
     display: flex;
     flex-wrap:wrap;
