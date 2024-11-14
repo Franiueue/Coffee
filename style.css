@@ -32,7 +32,6 @@ nav{
     color: #fff;
     font-family: sans-serif;
     padding-top: 15px;
-    margin-bottom: 15px;
 }
 li{
     display: inline;
@@ -92,6 +91,7 @@ li a:hover{
 }
 
 #our-story{
+    
     margin-top:15%;
     display: flex;
     flex-wrap:wrap;
@@ -132,6 +132,7 @@ li a:hover{
     font-family: sans-serif;
     line-height: 20px;
     margin: 20px 0;
+    margin-bottom: 5rem;
 }
 
 .coffee-container{
@@ -140,6 +141,7 @@ li a:hover{
     align-items: center;
     flex-wrap: wrap;
     margin-top: 10rem;
+    
 
 }
 .content-section p{
@@ -315,5 +317,5 @@ hr{
     .para{
         display: none;
     }
-}
 
+}
